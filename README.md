@@ -52,6 +52,6 @@ We trained and evaluated multiple models to predict Churn:
 *   Determined the optimal number of clusters using the **Elbow Method** and **Silhouette Score**.
 *   Profiled clusters to identify personas (e.g., "High-Value Loyalists" vs. "New Risk Users").
 
-rposes.
+
 
 ---
